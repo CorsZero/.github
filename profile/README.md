@@ -1,4 +1,4 @@
-# CorsZero
+# CORSZERO
 
 Welcome to **CorsZero** — an organization dedicated to building modern, scalable, and reliable **SaaS (Software as a Service)** products.
 
